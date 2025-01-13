@@ -2,7 +2,7 @@
 
 const data = {
     name: "Kenner Jamieson",
-    bio: "Undergraduate Architectural Student at University of Calgary passionate about building tools to make homes more affordable.",
+    bio: "Undergraduate Architectural Student at University of Calgary passionate about industrial and graphic design",
     contact: {
         email: "john.doe@gmail.com",
         phone: "+12345678910",

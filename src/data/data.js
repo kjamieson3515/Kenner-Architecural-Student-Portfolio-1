@@ -5,7 +5,7 @@ const data = {
     bio: "Undergraduate Architectural Student at University of Calgary passionate about industrial and graphic design",
     contact: {
         email: "Kenner.Jamieson@ucalgary.ca",
-        phone: "780-434-5464",
+        phone: "780-868-5000",
         linkedin: "https://www.linkedin.com/",
         github: "https://www.github.com/",
     }

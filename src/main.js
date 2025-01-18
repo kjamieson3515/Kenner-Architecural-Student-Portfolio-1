@@ -34,22 +34,24 @@ document.querySelector("#app").innerHTML = `
       <div id="project-row">
       Model 1
         <div class="three-model">
+        <a href="https://kenner-architecural-student-git-acc545-kjamieson3515s-projects.vercel.app/cadavre.png" target="_blank">
       <img src="./cadavre.png" id="model1" alt="Model 1 Image" />
         </div>
-        <div id="images">
-  <a href="https://kenner-architecural-student-portfolio-1-78p9.vercel.app/cubeDrawings/analysis%201.png" target="_blank">
-    <img src="./cubeDrawings/analysis 1.png" alt="cube1" />
-  </a>
-  <a href="https://kenner-architecural-student-portfolio-1-78p9.vercel.app/cubeDrawings/analysis%202.png" target="_blank">
-    <img src="./cubeDrawings/analysis 2.png" alt="cube2" />
-  </a>
-  <a href="https://kenner-architecural-student-portfolio-1-78p9.vercel.app/cubeDrawings/analysis%203.png" target="_blank">
-    <img src="./cubeDrawings/analysis 3.png" alt="cube3" />
-  </a>
-  <a href="https://kenner-architecural-student-portfolio-1-78p9.vercel.app/cubeDrawings/analysis%204.png" target="_blank">
-    <img src="./cubeDrawings/analysis 4.png" alt="cube4" />
-  </a>
-</div>
+        <div id="images-description">
+          <div id="images">
+            <a href="https://kenner-architecural-student-portfolio-1-78p9.vercel.app/cubeDrawings/analysis%201.png" target="_blank">
+                <img src="./cubeDrawings/analysis 1.png" alt="cube1" />
+            </a>
+            <a href="https://kenner-architecural-student-portfolio-1-78p9.vercel.app/cubeDrawings/analysis%202.png" target="_blank">
+                <img src="./cubeDrawings/analysis 2.png" alt="cube1" />
+            </a>
+            <a href="https://kenner-architecural-student-portfolio-1-78p9.vercel.app/cubeDrawings/analysis%203.png" target="_blank">
+                <img src="./cubeDrawings/analysis 3.png" alt="cube1" />
+            </a>
+            <a href="https://kenner-architecural-student-portfolio-1-78p9.vercel.app/cubeDrawings/analysis%204.png" target="_blank">
+                <img src="./cubeDrawings/analysis 4.png" alt="cube1" />
+            </a>
+          </div>
           <h4 id="description">While AI may be able to replicate human mastery over technical skill and displays it can never replicate the spirit and act of true creation that comes from drawing from the collective human experience and emotion that can only be drawn upon through the understanding and connection to the ephemerality of being human. </h4>
         </div>
       </div>

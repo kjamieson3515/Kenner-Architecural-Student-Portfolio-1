@@ -32,7 +32,7 @@ document.querySelector("#app").innerHTML = `
 
     <section id="projects">
       <div id="project-row">
-      Model 1
+      Project 1
         <div class="three-model">
         <a href="https://kenner-architecural-student-git-acc545-kjamieson3515s-projects.vercel.app/cadavre.png" target="_blank">
       <img src="./cadavre.png" id="model1" alt="Model 1 Image" />

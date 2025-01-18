@@ -20,7 +20,7 @@ const houses = [
   "./houseDrawings/house1.jpg",
   "./houseDrawings/house2.jpg",
   "./houseDrawings/house3.jpg",
-  "./houseDrawings/house4.jpg.png",
+  "./houseDrawings/house4.jpg",
 ];
 
 document.querySelector("#app").innerHTML = `

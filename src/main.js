@@ -58,20 +58,26 @@ document.querySelector("#app").innerHTML = `
 
     
       <div id="project-row">
-      Model 2
+      Project 2
         <div class="three-model">
           <div id="model2"></div>
         </div>
         <div id="images-description">
           <div id="images">
-            ${trees
-              .map(
-                (trees, index) =>
-                  `<img src="${trees}" alt="tree${index + 1}" />`
-              )
-              .join("")}
+            <a href="https://kenner-architecural-student-portfolio-1-78p9.vercel.app/treeDrawings/Gengar3D.png" target="_blank">
+                <img src="./treeDrawings/Gengar3D.png" alt="cube1" />
+            </a>
+            <a href="https://kenner-architecural-student-portfolio-1-78p9.vercel.app/treeDrawings/GengarPaper.png" target="_blank">
+                <img src="./treeDrawings/GengarPaper.png" alt="cube1" />
+            </a>
+            <a href="https://kenner-architecural-student-portfolio-1-78p9.vercel.app/treeDrawings/LAYOUT1.png" target="_blank">
+                <img src="./treeDrawings/LAYOUT1.png" />
+            </a>
+            <a href="https://kenner-architecural-student-portfolio-1-78p9.vercel.app/treeDrawings/LAYOUT2.png" target="_blank">
+                <img src="./treeDrawings/LAYOUT2.png" />
+            </a>
           </div>
-          <h4 id="description">A 3D tree model is a geometric representation of a tree, featuring a trunk, branches, and foliage. The trunk is typically cylindrical, with textured bark, while the branches extend outward to support leaves or a canopy. It may include roots or flowers for added detail.</h4>
+          <h4 id="description">Assignment Two challenged students to explore various methods of modification as well as importing and exporting 3d models across multiple softwares. After creating charts which map these transformations students were then challenged to create two seperate fabrications of a chosen character initially modeled in 3D.</h4>
         </div>
       </div>
 

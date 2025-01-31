@@ -10,10 +10,10 @@ const cubes = [
 ];
 
 const trees = [
-  "./treeDrawings/tree1.jpg",
-  "./treeDrawings/tree2.jpg",
-  "./treeDrawings/tree3.jpg",
-  "./treeDrawings/tree4.jpg",
+  "./treeDrawings/Gengar3D.png",
+  "./treeDrawings/GengarPaper.png",
+  "./treeDrawings/LAYOUT1.png",
+  "./treeDrawings/LAYOUT2.png",
 ];
 
 const houses = [
@@ -111,5 +111,5 @@ ${/* Model 2 commented out
 
 // Create three.js scenes for each
 // createThreeScene("#model1", "/3DModels/project1/cube.obj");
-createThreeScene("#model2", "/3DModels/project2/tree.obj");
+createThreeScene("#model2", "/3DModels/project2/gengarwebsiteobj.obj");
 // createThreeScene("#model3", "/3DModels/project3/cottage.obj");
